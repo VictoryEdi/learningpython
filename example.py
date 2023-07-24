@@ -19,3 +19,22 @@ a = 2
 b = 3
 total = a + b
 print(total)
+
+
+x = ["apple", "banana", "cherry"]
+
+
+print("Hello World") 
+
+a = 8
+print(a)
+
+H= ["banana", "cat", "Dog"]
+print(H)
+
+i = 30 
+u = 40
+o = 5
+print(i + o * u)
+
+D = {"name" : "Johnson", "Age': 30}
